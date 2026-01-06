@@ -1,5 +1,9 @@
 # 💫 About Me:
-👋 Hello, I'm Dejumo!<br><br>Welcome to my small world! haha<br>I'm so so passionate about software development. truthy!<br>I enjoy working with like-minded individuals, and i continuously strive to learn and <br>grow in the world of technology.<br><br>
+Hi, I’m Dejumo
+
+I’m a passionate Software Developer with a strong interest in building scalable, user-focused, and efficient digital solutions. I enjoy collaborating with like-minded individuals and continuously improving my skills in modern web technologies.
+
+I’m driven by curiosity, clean code, and the desire to create meaningful products that solve real-world problems.
 
 
 ## 🌐 Socials:
